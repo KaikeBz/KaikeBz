@@ -11,16 +11,7 @@
 <br/>
 
 <p>
-  I'm Kaike Bezerra Leite Brandão, born in Fortaleza,
-  Brazil, and currently a student of computing at IFCE. My tech 
-  enthusiasm led me to dive into web and mobile development, as 
-  well as home automation and Arduino projects. I share knowledge 
-  through open-source endeavors, including a student-focused grade 
-  calculator. Beyond coding, my devotion to music and joy in 
-  tinkering with cars round out my diverse profile. I hold high 
-  aspirations in the tech realm, always seeking innovative 
-  solutions and actively collaborating to nurture the community's 
-  growth.
+  I'm Kaike Bezerra Leite Brandão, born in Fortaleza, Brazil, and currently a student of computing at IFCE.
 </p>
 
 <br/>
